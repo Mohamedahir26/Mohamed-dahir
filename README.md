@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir</h1>
 <h3 align="center">
 💻 Aspiring cybersecurity professional
+  
 🎓 Computer Science graduate | Focused on SOC operations</h3>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mohameddahir826/)
