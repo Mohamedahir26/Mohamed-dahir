@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir</h1>
 <h3 align="center">Computer Science graduate and aspiring cybersecurity professional, focused on SOC Analysis and DFIR</h3>
 
-- 📝 I regularly write articles on [Mohamedd dahir](https://medium.com/@mohameddahir826/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mohameddahir826/)
 
 - 📫 How to reach me: **Mohameddahir826@gmail.com**
 
@@ -53,7 +53,6 @@
 <h3 align="left">About My Security Skills:</h3>
 <ul>
   <li>📊 SOC Analysis & Monitoring</li>
->
   <li>🔍 Network Analysis using Wireshark & Nmap</li>
   <li>💻 SIEM (Splunk) for threat detection</li>
   <li>🛡️ EDR Basics: CrowdStrike / Microsoft Defender</li>
