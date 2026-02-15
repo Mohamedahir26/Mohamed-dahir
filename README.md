@@ -1,29 +1,33 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir</h1>
 <h3 align="center">Aspiring Cybersecurity Professional | SOC Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedahir26&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
 🛡️ Passionate about Cybersecurity  
 🎓 Computer Science Graduate  
-🔎 Aspiring SOC Analyst with hands-on experience in log analysis, network traffic inspection, and endpoint security monitoring  
+🛡️ Focused on SOC Analysis 
 ✍️ Cybersecurity Writer on Medium  
-🤝 Open to cybersecurity roles and collaborations  
-
+🤝 Open to cybersecurity roles & collaborations  
+  
 ---
 
 ## 📜 Certifications
 
-🎓 Fortinet Certified Fundamentals Cybersecurity  
-🎓 Fortinet Certified Associate Cybersecurity  
-🎓 Google Cybersecurity Professional Certificate  
-🎓 IBM Cybersecurity Analyst Professional Certificate  
-🎓 Palo Alto Networks Cybersecurity Professional Certificate  
+<p>
+
+<img src="https://img.shields.io/badge/Fortinet-Certified_Fundamentals_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Fortinet-Certified_Associate_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Cybersecurity_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Palo_Alto_Networks-Cybersecurity_Professional_Certificate-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+
+</p>
 
 ---
 
