@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | SOC Analyst | DFIR Enthusiast</h3>
+<h3 align="center">Aspiring Cybersecurity Professional | SOC Analyst </h3>
 
 ---
 
 ## 🚀 About Me
 
 🛡️ Passionate about Cybersecurity 
+
 🎓 Computer Science Graduate  
 📊 Focused on SOC Analysis 
 ✍️ Cybersecurity Writer on Medium  
