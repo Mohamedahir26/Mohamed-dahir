@@ -8,7 +8,7 @@
 🛡️ Passionate about Cybersecurity  
 🎓 Computer Science Graduate  
 🛡️ Focused on SOC Analysis 
-✍️ Cybersecurity Writer on Medium 
+✍️ Cybersecurity Writer on Medium
 🤝 Open to cybersecurity roles & collaborations  
   
 ---
@@ -41,7 +41,7 @@
 ## 💻 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,linux,python,github,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,linux,python,github" />
 </p>
 
 ---
