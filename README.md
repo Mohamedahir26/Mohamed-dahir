@@ -4,12 +4,11 @@
 ---
 
 ## 🚀 About Me
-
-🛡️ Passionate about Cybersecurity  
-🎓 Computer Science Graduate  
-🛡️ Focused on SOC Analysis 
-✍️ Cybersecurity Writer on Medium
-🤝 Open to cybersecurity roles & collaborations  
+🎓 Computer Science Graduate
+🔐 Cyber Security Practitioner
+📊 Focused on SOC Analysis (Security Operations Center)
+✍️ Cyber Security Writer on Medium
+🤝 Open to Cyber Security Roles & Collaboration  
   
 ---
 
