@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 
-🛡️ Passionate about Cybersecurity 
-
+🛡️ Passionate about Cybersecurity  
 🎓 Computer Science Graduate  
 📊 Focused on SOC Analysis 
 ✍️ Cybersecurity Writer on Medium  
@@ -25,13 +24,12 @@
 <a href="https://medium.com/@mohameddahir826">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+<a href="mailto:Mohameddahir826@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://mohandahir.netlify.app">
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:Mohameddahir826@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -74,22 +72,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedahir26&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<h3 align="center">⭐ Building my journey in Cybersecurity, one log at a time.</h3>
+⭐ From Mohamed Dahir
