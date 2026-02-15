@@ -5,9 +5,13 @@
 
 ## 🚀 About Me
 🎓 Computer Science Graduate
+
 🔐 Cyber Security Practitioner
+
 📊 Focused on SOC Analysis (Security Operations Center)
+
 ✍️ Cyber Security Writer on Medium
+
 🤝 Open to Cyber Security Roles & Collaboration  
   
 ---
