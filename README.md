@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | SOC Analyst </h3>
+<h3 align="center">Aspiring Cybersecurity Professional | SOC Analyst</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamedahir26&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
@@ -7,9 +11,19 @@
 
 🛡️ Passionate about Cybersecurity  
 🎓 Computer Science Graduate  
-📊 Focused on SOC Analysis 
+🔎 Aspiring SOC Analyst with hands-on experience in log analysis, network traffic inspection, and endpoint security monitoring  
 ✍️ Cybersecurity Writer on Medium  
 🤝 Open to cybersecurity roles and collaborations  
+
+---
+
+## 📜 Certifications
+
+🎓 Fortinet Certified Fundamentals Cybersecurity  
+🎓 Fortinet Certified Associate Cybersecurity  
+🎓 Google Cybersecurity Professional Certificate  
+🎓 IBM Cybersecurity Analyst Professional Certificate  
+🎓 Palo Alto Networks Cybersecurity Professional Certificate  
 
 ---
 
@@ -24,6 +38,7 @@
 <a href="https://medium.com/@mohameddahir826">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+
 <a href="mailto:Mohameddahir826@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -39,9 +54,7 @@
 ## 💻 Languages & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,linux,python,github" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,linux,python,github,bash" />
 </p>
 
 ---
