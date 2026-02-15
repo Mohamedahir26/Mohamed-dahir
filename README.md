@@ -8,28 +8,11 @@
 🛡️ Passionate about Cybersecurity  
 🎓 Computer Science Graduate  
 🛡️ Focused on SOC Analysis 
-✍️ Cybersecurity Writer on Medium  
+✍️ Cybersecurity Writer on Medium 
 🤝 Open to cybersecurity roles & collaborations  
   
 ---
 
-## 📜 Certifications
-
-<p>
-
-<img src="https://img.shields.io/badge/Fortinet-Certified_Fundamentals_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Fortinet-Certified_Associate_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IBM-Cybersecurity_Analyst_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Palo_Alto_Networks-Cybersecurity_Professional_Certificate-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
